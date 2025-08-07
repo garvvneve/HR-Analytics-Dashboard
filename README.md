@@ -39,7 +39,6 @@ This project is a Power BI dashboard designed to provide insights into employee 
 ## 📂 Files
 
 - `HR_Analytics.pbix` — Power BI dashboard file
-- `hr_analytics_dashboard_screenshot.png` — Dashboard screenshot
 
 ## 👨‍💻 Created By
 
